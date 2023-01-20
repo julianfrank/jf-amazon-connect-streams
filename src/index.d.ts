@@ -3,6 +3,7 @@
 // Definitions by: Andy Hopper <https://github.com/andyhopp>, Marco Gonzalez <https://github.com/marcogrcr>
 // TypeScript Version: 3.0
 declare namespace connect {
+// export namespace connect {
   /**
    * A callback to receive `Agent` API object instances.
    *
